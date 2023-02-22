@@ -1,4 +1,4 @@
-# Scalable and Near-Optimal $\varepsilon$-tube Clusterwise Regression (CLR) - Under review at CPAIOR 2023
+# Scalable and Near-Optimal $\varepsilon$-tube Clusterwise Regression (CLR) - Accepted at CPAIOR 2023
 
 
 
